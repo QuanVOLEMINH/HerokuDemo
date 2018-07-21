@@ -5,7 +5,7 @@
     <style>
         body {
             text-align: center;
-            margin: 0 100px;
+            margin: 20px 100px;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             font-size: 1rem;
         }
