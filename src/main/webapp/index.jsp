@@ -5,9 +5,9 @@
     <style>
         body {
             text-align: center;
-            margin: 50px;
+            margin: 0 100px;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            font-size: 1.5rem;
+            font-size: 1rem;
         }
     </style>
 </head>
