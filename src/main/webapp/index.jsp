@@ -5,6 +5,9 @@
     <style>
         body {
             text-align: center;
+            margin: 50px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 1.5rem;
         }
     </style>
 </head>
@@ -16,7 +19,7 @@
         allowfullscreen></iframe>
     <hr>
     <p>Doi moi em lam toi bong nhu dien dai</p>
-    <p>Oi anh mat qua diu emd lam tim nhuc nhoi</p>
+    <p>Oi anh mat qua diu em lam tim nhuc nhoi</p>
     <p>Toi yeu em du biet se khong duoc gi</p>
     <p>Toi yeu em du biet tinh em bang gia</p>
     <hr>
