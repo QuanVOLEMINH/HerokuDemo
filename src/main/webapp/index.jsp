@@ -5,6 +5,10 @@
         <title>Lyrics</title>
         <meta charset="utf-8">
         <style>
+            html {
+                background-image: url("noise.jpg");
+            }
+            
             body {
                 margin: 20px 100px;
                 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
