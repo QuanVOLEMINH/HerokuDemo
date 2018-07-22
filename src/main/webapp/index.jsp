@@ -13,15 +13,12 @@
 </head>
 
 <body>
-    <h2>Lo Yeu Em Roi</h2>
+    <h2>Lỡ Yêu Em Rồi</h2>
     <hr>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/u45gQVMPHeM" frameborder="0" allow="autoplay; encrypted-media"
-        allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/u45gQVMPHeM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <hr>
-    <p>Doi moi em lam toi bong nhu dien dai</p>
-    <p>Oi anh mat qua diu em lam tim nhuc nhoi</p>
-    <p>Toi yeu em du biet se khong duoc gi</p>
-    <p>Toi yeu em du biet tinh em bang gia</p>
+    <p>Đôi môi em làm tôi bỗng như điên dại</p>
+    <p>Ánh mắt quá dịu êm làm tim nhức nhối</p>
     <hr>
 </body>
 
