@@ -54,7 +54,7 @@
                             <ul>
                                 <li>working_directory: ~/repo</li>
                                 <li>run: mvn clean install</li>
-                                <li>deploy: <em>git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP.git master</em> with HEROKU_API_KEY, HEROKU_APP are defined in Heroku Project's Settings</li>
+                                <li>deploy: <br> <em>git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP.git master</em> <br> with HEROKU_API_KEY, HEROKU_APP are defined in Heroku Project's Settings</li>
                                 <li>HEROKU_APP: your heroku app's name</li>
                                 <li>HEROKU_API_KEY: heroku authorizations:create</li>
                             </ul>
@@ -69,7 +69,7 @@
                         <li>run command: heroku create inside project folder</li>
                         <li>add webapp-runner to pom.xml</li>
                         <li>define a Procfile with this line: <br>
-                            <p><em>web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war</em></p>
+                            <em>web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war</em>
                         </li>
                         <li>check heroku remote with: git remote -v</li>
                         <li>When you push to heroku master -> it will deploy with remotely built war, but with circleci, you don't need to do this step</li>
