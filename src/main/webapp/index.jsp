@@ -23,6 +23,7 @@
                 margin: 20px 50px;
                 text-align: justify;
                 word-wrap: break-word;
+                line-height: 1.5;
             }
         </style>
     </head>
