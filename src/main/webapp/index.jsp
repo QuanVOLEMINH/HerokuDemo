@@ -17,7 +17,7 @@
     <body>
         <h2>Lỡ Yêu Em Rồi</h2>
         <hr>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/u45gQVMPHeM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/u45gQVMPHeM?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         <hr>
         <p>Đôi môi em làm tôi bỗng như điên dại</p>
         <p>Ánh mắt quá dịu êm làm tim nhức nhối</p>
