@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kaleidoscope:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kaleidoscope.war">
+      <element id="artifact" artifact-name="kaleidoscope:war exploded" />
+    </root>
+  </artifact>
+</component>
